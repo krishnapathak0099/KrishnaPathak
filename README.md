@@ -35,17 +35,17 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=krishnanpathak0099&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=krishnapathak0099&theme=tokyonight&hide_border=true&show_icons=true)
 
-![](https://streak-stats.demolab.com?user=krishnanpathak0099&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=krishnapathak0099&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanpathak0099&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapathak0099&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=krishnanpathak0099&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=krishnapathak0099&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ## 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=krishnanpathak0099&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=krishnapathak0099&style=for-the-badge&color=blueviolet)
 
 ---
 
