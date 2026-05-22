@@ -1,9 +1,8 @@
 
 # 👋 Hey, I'm Krishna Pathak
 
-💻 Passionate Developer | 🤖 AI & ML Enthusiast | 🎮 Building Creative Python Projects  
-🚀 Exploring Software Development, Automation, and Interactive Experiences
-
+💻 Passionate Developer | 🤖 AI & ML Enthusiast | 🎮 Building Creative Python Games and Projects  
+🚀 Exploring Software Development, Automation, and Data Visualization | 
 ---
 
 ## 🌐 Connect With Me
@@ -53,8 +52,8 @@
 
 - 🤖 Machine Learning & AI
 - 🐍 Python Automation
-- 🎮 Interactive Horror Games
-- 🌐 Full Stack Development
+- 🎮 Interactive Games
+- 🌐 Java|DSA
 
 ---
 
@@ -64,4 +63,4 @@
 
 ---
 
-⭐ *“Learning by building real projects.”*v
+⭐ *“Learning by building real projects.”*
