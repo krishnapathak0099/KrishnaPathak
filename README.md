@@ -2,8 +2,7 @@
 # 👋 Hey, I'm Krishna Pathak
 
 💻 Passionate Developer | 🤖 AI & ML Enthusiast | 🎮 Building Creative Python Games and Projects  
-🚀 Exploring Software Development, Automation, and Data Visualization | 
----
+🚀 Exploring Software Development, Automation, and Data Visualization
 
 ## 🌐 Connect With Me
 
